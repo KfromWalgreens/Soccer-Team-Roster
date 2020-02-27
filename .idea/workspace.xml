@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d295f062-da22-47da-881a-b6bc766033bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YHguIn5Nu5P1HgeR6iqFlaJN40" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8.0_241" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/untitled" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kikim\Documents\GitHub\major-program-1-KfromWalgreens" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RosterGenerator" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_241" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="RosterGenerator" />
+      <module name="untitled" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RosterGenerator" />
+      <module name="testing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d295f062-da22-47da-881a-b6bc766033bd" name="Default Changelist" comment="" />
+      <created>1582605154803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582605154803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1582786383390">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1582786383390" />
+    <state x="400" y="35" width="598" height="657" key="#RosterGenerator" timestamp="1582783694617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="35" width="598" height="657" key="#RosterGenerator/0.0.1366.728@0.0.1366.728" timestamp="1582783694617" />
+    <state x="205" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582833236375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="205" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582833236375" />
+    <state x="454" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582783551365">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1582783551365" />
+    <state x="479" y="69" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1582783638125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="69" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1582783638125" />
+    <state x="714" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1582777302266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="714" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582777302266" />
+    <state x="507" y="182" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582784776848">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="182" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1582784776848" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1582826826168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582826826168" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582833082877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582833082877" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582833082877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582833082877" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582833082876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582833082876" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582833082877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582833082877" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1582826694855">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582826694855" />
+    <state x="65" y="0" key="new project wizard" timestamp="1582826833096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1582826833096" />
+  </component>
+</project>
