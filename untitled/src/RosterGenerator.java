@@ -22,6 +22,8 @@ public class RosterGenerator{
                 outputRoster();
             }else if(scan.next().equals("u")){
                 updatePlayer();
+            }else if(scan.next().equals("a")){
+                outputRosterAboveRating();
             }
             System.out.println("MENU");
             System.out.println("u - Update player rating");
@@ -32,7 +34,6 @@ public class RosterGenerator{
             System.out.println();
             System.out.println("Choose an option:");
         }
-        //outputRoster();
         System.exit(0);
     }
 
@@ -40,10 +41,19 @@ public class RosterGenerator{
 //
 //    }
 //
-//    public void outputRosterAboveRating(){
-//
-//    }
-//
+    public static void outputRosterAboveRating(){
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a rating:");
+        int rate = scan.nextInt();
+        System.out.println("ABOVE " + rate);
+        for(int w = 0; w < 5; w++){
+            if(roster[w].getPlayerRanking() > rate){
+               System.out.println("Jersey number: " + roster[w].getPlayerJerseyNumber() + ", Rating: " + roster[w].getPlayerRanking());
+            }
+        }
+        System.out.println("");
+    }
+
     public static void updatePlayer(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a jersey number:");
@@ -55,6 +65,7 @@ public class RosterGenerator{
                 roster[y].setPlayerRanking(rating);
             }
         }
+        System.out.println("");
     }
 
     public static void generateTeam(){
