@@ -17,10 +17,21 @@ public class RosterGenerator{
         System.out.println("q - Quit");
         System.out.println();
         System.out.println("Choose an option:");
-
-        if(scan.nextLine().equals("q")){//if q is pressed, the program exits
-            System.exit(0);
+        while(!(scan.next().equals("q"))){
+            if(scan.next().equals("o")){
+                outputRoster();
+            }
+            System.out.println("MENU");
+            System.out.println("u - Update player rating");
+            System.out.println("a - Output players above a rating");
+            System.out.println("r - Replace player");
+            System.out.println("o - Output roster");
+            System.out.println("q - Quit");
+            System.out.println();
+            System.out.println("Choose an option:");
         }
+        //outputRoster();
+        System.exit(0);
     }
 
     //    public void replacePlayer(){
@@ -65,7 +76,14 @@ public class RosterGenerator{
             //puts the new Player object into the roster array
             roster[i] = p;
         }
-
-
     }
+
+    public static void outputRoster(){
+        System.out.println("ROSTER");
+        for(int j = 0; j < 5; j++){
+            System.out.println(roster[j].toString());
+        }
+        System.out.println("");
+    }
+
 }
